@@ -4,6 +4,11 @@ __pycache__/
 *$py.class
 .ipynb_checkpoints/
 .Rhistory
+*_followers.txt
+twitter_config.py
+not_ready*
+wikipedia_famous.txt
+20191007_car_scrape.txt
 
 # C extensions
 *.so
