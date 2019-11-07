@@ -9,6 +9,7 @@ twitter_config.py
 not_ready*
 wikipedia_famous.txt
 20191007_car_scrape.txt
+naive-bayes/candidate-tweets-2018/*
 
 # C extensions
 *.so
